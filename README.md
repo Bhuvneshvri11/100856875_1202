@@ -5,7 +5,7 @@ this is basic data analysis
 
 
 
-i started doing my analysis through importing the necessary packages which as shown below
+I started doing my analysis through importing the necessary packages which as shown below
 import pandas as pd 
 the library which will help us import the excel file
 import numpy as np 
@@ -15,12 +15,11 @@ It provides more utility functions for optimization, stats and signal processing
 import matplotlib.pyplot as plt 
 the library to help us in plotting the data, visual design
 
-i now went forward to reading the data from an absolute path which is as shown below
+I now went forward to reading the data from an absolute path which is as shown below
 we use the pandas to import the dataset
 dataframe=pd.read_csv(r'~/Desktop/all the analysis/survey.csv')'
 
-the descriptive statistics are much important in helping one gain a great understanding of basic variables of the data and their interactions as well as exact values
-for the descriptive statisics i did it as shown below
+Descriptive statistics are used to describe the basic features of the data in a study. They provide simple summaries of the sample and the measures. Together with simple graphics analysis, they form the basis of virtually every quantitative analysis of data. The descriptive statistics for the dataset are shown below...
 the descriptive statisctics for the data
 dataframe.describe()
 
@@ -62,7 +61,7 @@ sns.heatmap(the_dataset)
 
 we can now visualize a histogram
 
-Creating a histogram provides a visual representation of data distribution. Histograms can display a large amount of data and the frequency of the data values. The median and distribution of the data can be determined by a histogram. In addition, it can show any outliers or gaps in the data.
+he histogram is a popular graphing tool. It is used to summarize discrete or continuous data that are measured on an interval scale. Creating a histogram provides a visual representation of data distribution. Histograms can display a large amount of data and the frequency of the data values. The median and distribution of the data can be determined by a histogram. In addition, it can show any outliers or gaps in the data.
 
 ========
 
