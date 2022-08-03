@@ -61,7 +61,7 @@ sns.heatmap(the_dataset)
 
 we can now visualize a histogram
 
-he histogram is a popular graphing tool. It is used to summarize discrete or continuous data that are measured on an interval scale. Creating a histogram provides a visual representation of data distribution. Histograms can display a large amount of data and the frequency of the data values. The median and distribution of the data can be determined by a histogram. In addition, it can show any outliers or gaps in the data.
+The histogram is a popular graphing tool. It is used to summarize discrete or continuous data that are measured on an interval scale. Creating a histogram provides a visual representation of data distribution. Histograms can display a large amount of data and the frequency of the data values. The median and distribution of the data can be determined by a histogram. In addition, it can show any outliers or gaps in the data.
 
 ========
 
